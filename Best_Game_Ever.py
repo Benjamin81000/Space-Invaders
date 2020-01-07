@@ -323,7 +323,7 @@ Tir = []
 
 
 fenetre = Tk()
-fenetre.geometry("1500x800")
+fenetre.geometry("600x600")
 fenetre.title("Switch Invaders @DAWAE")
 
 
